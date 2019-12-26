@@ -2,17 +2,19 @@
 MERN stack CRUD(Create, Read, Update, Delete) Web Application practice
 
 # Prerequisite
-1. MongoDB
-  1.1 Install follow this link https://docs.mongodb.com/manual/administration/install-community/
+1. MongoDB  
+  1.1 Install follow this link https://docs.mongodb.com/manual/administration/install-community/  
   1.2 You have to add the mongo executable to PATH, so the commands are accessible from outside the MongoDB bin folder.
     Search for your MongoDb installation bin folder and copy the path (e.g.: C:\Program Files\MongoDB\bin) 
     Right click My Computer > Properties > Advanced system settings > Environment Variables > System variables > 
-    Look for "Path" > Edit > New > Paste in the path to your Mongodb bin folder > Restart your terminal
-    Do the same on Look for "Path" in User variables for User tab
+    Look for "Path" > Edit > New > Paste in the path to your Mongodb bin folder > Restart your terminal  
+    Do the same on Look for "Path" in User variables for User tab  
   1.3 Open Command Prompt, run command "mkdir -p /data/db"
-2. NodeJS
+
+2. NodeJS <br />
   2.1 Install follow this link https://nodejs.org/en/
-3. Git
+
+3. Git <br />
   3.1 Install follow this link https://git-scm.com/downloads
 
 # How to Download This Project
